@@ -8,6 +8,10 @@
 #
 
 # Run the app
+<<<<<<< HEAD
 echo "Starting app with lang option 'es'..."
+=======
+echo "Starting app with lang option 'ES'..."
+>>>>>>> d1ab71d71239f4910bd10a43c16b2f2e25a68406
 exec /opt/app-root/app --lang es
 
